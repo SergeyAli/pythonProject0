@@ -48,6 +48,6 @@ class Rectangle:
 
 if __name__ == "__main__":
     rect = Rectangle(2, 5)
-    rect.width = 0
+    rect.width = 2
 
     print(rect)
