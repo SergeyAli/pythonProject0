@@ -21,7 +21,7 @@
         Работа в консоли в режиме интерпретатора Python.
         Решите квадратное уравнение 5x2-10x-400=0 последовательно сохраняя переменные a, b, c, d, x1 и x2.
         *Попробуйте решить уравнения с другими значениями a, b, c
-    [Задание 5](https://github.com/SergeyAli/pythonProject0/blob/main/PythonGB/Seminar/01/py_sem_05.py)
+[Задание 5](https://github.com/SergeyAli/pythonProject0/blob/main/PythonGB/Seminar/01/py_sem_05.py)
         Работа в консоли в режиме интерпретатора Python.
         Посчитайте сумму чётных элементов от 1 до n исключая кратные e.
         Используйте while и if.
