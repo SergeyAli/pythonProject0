@@ -1,5 +1,5 @@
-[СЕМИНАР 1 Основы Python](https://github.com/SergeyAli/pythonProject0/edit/main/PythonGB/Seminar)
-    [Задание 1](https://github.com/SergeyAli/pythonProject0/edit/main/PythonGB/Seminar)
+1 [СЕМИНАР Основы Python](https://github.com/SergeyAli/pythonProject0/edit/main/PythonGB/Seminar)
+    1 [Задание 1](https://github.com/SergeyAli/pythonProject0/edit/main/PythonGB/Seminar)
         Установили Python и IDE для работы
     Задание 2
         Работаем в командной строке (терминале ОС)
